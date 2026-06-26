@@ -33,10 +33,10 @@
 
 ## Repository Structure
 
-- `skills/SKILL.md`: 核心规则与默认输出方式
-- `skills/references/weird-style.md`: 异常类型、推进节奏、修订要点
-- `skills/references/words.md`: 用词倾向与替换思路
-- `skills/references/reversal.md`: 反转的适用条件与简化方法
+- `SKILL.md`: 核心规则与默认输出方式
+- `references/weird-style.md`: 异常类型、推进节奏、修订要点
+- `references/words.md`: 用词倾向与替换思路
+- `references/reversal.md`: 反转的适用条件与简化方法
 - `example/village-weird-tale.md`: 偏克制、偏冷感的示例
 - `example/天敌.md`: 偏密集、偏监视感的示例
 
@@ -69,3 +69,11 @@
 这个项目的定位更偏向“写作控制器”。
 
 它提供的是输出约束、节奏框架和语言方向，目的是让模型更稳定地写出冷、缓、持续失衡的怪异恐怖文本。
+
+## License
+
+本项目采用 `CC BY-SA 4.0`。
+
+- 允许使用、修改和再发布
+- 允许商业使用，但需要保留署名
+- 基于本项目改作并发布时，需要继续以相同协议开源共享
